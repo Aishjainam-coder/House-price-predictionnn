@@ -27,9 +27,9 @@ I'm a passionate developer with a love for coding and exploring the endless poss
 
 ## 🚀 Key Projects
 
-- [Project 1](https://github.com/Aishjainam-coder/spy-eye): Brief description of what you built and achieved.
-- [Project 2](https://github.com/Stargent-Robotics-Community/Aishwarya-Jain): Brief description of what you built and achieved.
-- [Project 3](https://github.com/Aishjainam-coder/Calendar-Flutter): Brief description of what you built and achieved.
+- [Project 1](https://github.com/Aishjainam-coder/spy-eye):
+- [Project 2](https://github.com/Stargent-Robotics-Community/Aishwarya-Jain): 
+- [Project 3](https://github.com/Aishjainam-coder/Calendar-Flutter): 
 
 ## 🌟 Achievements
 
