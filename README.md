@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Aish Jainam!
+# 👋 Hello there, I'm Aishwarya Jain!
 
 <p align="center">
   <img src="https://github.com/Aishjainam-coder/Aishjainam-coder/blob/main/assets/profile-banner.png" alt="Profile Banner">
@@ -27,9 +27,9 @@ I'm a passionate developer with a love for coding and exploring the endless poss
 
 ## 🚀 Key Projects
 
-- [Project 1](https://github.com/Aishjainam-coder/Project-1): Brief description of what you built and achieved.
-- [Project 2](https://github.com/Aishjainam-coder/Project-2): Brief description of what you built and achieved.
-- [Project 3](https://github.com/Aishjainam-coder/Project-3): Brief description of what you built and achieved.
+- [Project 1](https://github.com/Aishjainam-coder/spy-eye): Brief description of what you built and achieved.
+- [Project 2](https://github.com/Stargent-Robotics-Community/Aishwarya-Jain): Brief description of what you built and achieved.
+- [Project 3](https://github.com/Aishjainam-coder/Calendar-Flutter): Brief description of what you built and achieved.
 
 ## 🌟 Achievements
 
@@ -38,7 +38,7 @@ I'm a passionate developer with a love for coding and exploring the endless poss
 
 ## 🤝 Let's Connect
 
-I'm open to collaborating on open-source projects and learning from fellow developers. Feel free to reach out to me if you have any programming, Flutter, or tech-related questions! You can connect with me on [LinkedIn](www.linkedin.com/in/your-linkedin-id) or drop me an email at jainaish.coder@gmail.com.
+I'm open to collaborating on open-source projects and learning from fellow developers. Feel free to reach out to me if you have any programming, Flutter, or tech-related questions! You can connect with me on [LinkedIn](https://www.linkedin.com/in/aishwarya-jain-10222320a/) or drop me an email at jainaish.coder@gmail.com.
 
 ## 🚀 Fun Fact
 
@@ -46,4 +46,3 @@ Did you know that I love solving puzzles and brain teasers? It's my way of keepi
 
 Let's connect and embark on an exciting journey of learning and creating together! Happy coding! 😄🚀
 
-Note: The profile banner image can be customized by uploading a visually appealing image to the 'assets' folder in your GitHub repository. Replace 'www.linkedin.com/in/your-linkedin-id' with your actual LinkedIn profile URL. You can also include more badges or customize the style further based on your preferences!
